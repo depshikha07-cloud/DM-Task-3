@@ -5,4 +5,4 @@ INTERN ID:CT04DR2092
 DOMAIN: Digital Marketing 
 DURATION: 4 WEEKS 
 MENTOR: NEELA SANTHOSH
-document : 
+document : [SEO Checklist.docx](https://github.com/user-attachments/files/23957814/SEO.Checklist.docx)
